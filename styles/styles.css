@@ -2,7 +2,7 @@
 /* Based on PPWL stylesheet (2025-07-22) */
 
 /* ----- COLOR VARIABLES ----- */
-:root {
+:root { 
   --color-primary: #002B45;
   --color-accent: #00BFFF;
   --color-accent-light: #E0F7FA;
